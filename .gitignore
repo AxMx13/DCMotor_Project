@@ -1,0 +1,10 @@
+# Временные файлы MATLAB
+*.asv
+*.autosave
+*.m~
+
+# Файлы Simulink
+*.slxc
+*.elf
+*.zip
+slprj/
