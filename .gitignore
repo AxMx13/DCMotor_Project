@@ -8,3 +8,5 @@
 *.elf
 *.zip
 slprj/
+derived/
+resources/project/
